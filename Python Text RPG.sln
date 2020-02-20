@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Python Text RPG", "Python Text RPG.pyproj", "{D73927E5-6470-4063-B8FD-7AA7E628FB43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D73927E5-6470-4063-B8FD-7AA7E628FB43}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D73927E5-6470-4063-B8FD-7AA7E628FB43}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {499B0D11-9524-4C4F-8DFA-822FB22F7F17}
+	EndGlobalSection
+EndGlobal
